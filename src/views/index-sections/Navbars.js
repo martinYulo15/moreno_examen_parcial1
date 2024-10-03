@@ -14,7 +14,7 @@ import {
   Nav,
   Container,
   Row,
-  Col
+  Col 
 } from "reactstrap";
 
 // core components
